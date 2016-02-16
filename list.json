@@ -4,6 +4,11 @@
 		"name":"BRICK HERO",
 		"logo":"https://lh3.googleusercontent.com/6w4zD1Tm2L20pTJFK32Wbxrrlq_-gyQ4p142fw0fiJ0yEw2h8s8nqnGhFPBBGXygJBoU=w300-rw",
 		"url":"funbox.game.darkblue"
-	  }
+	  },
+	  {
+		"name":"Monkey Climb",
+		"logo":"https://lh3.googleusercontent.com/iWJR6Q7Z59j7y0gICwvRuKVIwuNQg8ySrzyldqd38RocB5xiAqPIXFej_rFgUzePaw=w300-rw",
+		"url":"funbox.game.monkeyclimb"
+	  },
   ]
 }
