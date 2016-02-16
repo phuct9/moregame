@@ -1,3 +1,9 @@
-abc
-bca
-bda
+{
+  "games": [
+      {
+		"name":"BRICK HERO",
+		"logo":"https://lh3.googleusercontent.com/6w4zD1Tm2L20pTJFK32Wbxrrlq_-gyQ4p142fw0fiJ0yEw2h8s8nqnGhFPBBGXygJBoU=w300-rw",
+		"url":"https://play.google.com/store/apps/details?id=funbox.game.darkblue"
+	  }
+  ]
+}
