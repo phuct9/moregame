@@ -1,7 +1,7 @@
 {
   "games": [
       {
-		"name":"NINJA MINI",
+		"name1":"NINJA MINI",
 		"logo":"https://lh3.googleusercontent.com/UJbQuBCcuf0oQmNT-ZWYPyabeyrbhkRv5P3Qgyj5BaFdI_kWTlaBqOOD7WKtJ21bPg=w300-rw",
 		"pakage":"funbox.game.ninjanano"
 	  }
