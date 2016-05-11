@@ -9,6 +9,11 @@
 		"name":"Tank Wars Counter",
 		"logo":"https://lh3.googleusercontent.com/psVHo6SXrAe00jnhoKVLH5KkGKwM3sqFlTB5A_GWPObISJQMczAA1SMKTkiLHe8_Szex=w300-rw",
 		"pakage":"funbox.game.counter_tank_3d"
+	  },
+	  {
+		"name":"MATRIXO",
+		"logo":"https://lh3.googleusercontent.com/9oB6WPNeTfEuJu0V4uv9oPJA2yur05gXSl2wNjaQ-5XLPgTBW8LCdFvk_B71mSHHzeCj=w300-rw",
+		"pakage":"funbox.game.matrixo"
 	  }
   ]
 }
